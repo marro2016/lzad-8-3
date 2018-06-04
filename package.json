@@ -1,0 +1,25 @@
+{
+  "name": "lzad-8-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test:js",
+"test:js": "jshint js/",
+    "build": "jshint js/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marro2016/lzad-8-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marro2016/lzad-8-3/issues"
+  },
+  "homepage": "https://github.com/marro2016/lzad-8-3#readme",
+  "devDependencies": {
+    "jshint": "^2.9.5"
+  }
+}
